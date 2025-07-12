@@ -12,3 +12,8 @@ providing a tamper-resistant audit trail. The blockchain also validates model up
 server combines the validated updates to refine the global model, which is then redistributed
 to participating devices. This framework not only enhances privacy and data security but also
 ensures the robustness of IoT device authentication through decentralized consensus and immutable record-keeping. Future extensions could include blockchain-based identity management, advanced consensus mechanisms, and real-time performance visualization through interactive dashboards 
+
+## Contributors
+- Harshitha Yarra
+- Srihita Karempudi
+- Anamitra Joshi
